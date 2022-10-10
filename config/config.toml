@@ -1,0 +1,18 @@
+[viewer]
+Title = "ikun之家"
+Description = "ikun之家"
+Logo = "/resource/images/logo.jpeg"
+Navigation = ["首页","/", "ikun试题","/ikun", "归档","/pigeonhole", "关于","/about"]
+Bilibili = "https://search.bilibili.com/all?keyword=ikun&from_source=webtop_search&spm_id_from=333.1007"
+Zhihu = "https://www.zhihu.com/topic/20773757/hot"
+Avatar = "https://img0.baidu.com/it/u=2691582200,3481433136&fm=253&fmt=auto&app=138&f=JPEG?w=494&h=500"
+UserName = "徐佳辉"
+UserDesc = "初级小爱坤"
+[system]
+CdnURL = "https://static.mszlu.com/goblog/es6/md-assets"
+QiniuAccessKey = "1"
+QiniuSecretKey = "2"
+Valine = true
+ValineAppid = "E3bg2SlCXB0xlaaqxjHoU8id-gzGzoHsz"
+ValineAppkey = "I9RRlo8K81n460tw5eT87qjD"
+ValineServerURL = "https://e3bg2slc.lc-cn-n1-shared.com"
